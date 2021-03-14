@@ -24,11 +24,11 @@ const Story = (props: Props) => {
 
   return (
     <View style={styles.container}>
-       {!props.isLoaded && (
+       {/* {!props.isLoaded && (
       <View style={styles.loading}>
         <ActivityIndicator color="white" />
       </View>
-      )}
+      )}*/}
       {type === 'image' ? (
         <Image
           source={{uri: url}}
