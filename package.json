@@ -1,6 +1,6 @@
 {
-  "name": "react-native-expo-instagram-stories",
-  "version": "0.0.1",
+  "name": "react-native-basic-expo-stories",
+  "version": "1.0.0",
   "description": "Stories for React native Like Instagram, Whatsapp and Twitter",
   "main": "index.tsx",
   "scripts": {
