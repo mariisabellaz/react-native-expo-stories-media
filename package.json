@@ -6,11 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react-native",
-    "stories",
-    "stories instagram"
-  ],
+  "keywords": [],
   "homepage": "https://github.com/mariisabellaz/react-native-stories-media/blob/main/README.md",
   "peerDependencies": {
     "react": ">=15.0.0",
@@ -44,8 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mariisabellaz/react-native-expo-stories-media.git"
+    "url": "git+ssh://git@github.com/mariisabellaz/react-native-expo-stories-media.git"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "mariisabellaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariisabellaz/react-native-expo-stories-media/issues"
+  }
 }
